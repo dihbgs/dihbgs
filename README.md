@@ -1,7 +1,5 @@
 # ✨ About Me
  <dl>
-  <dt>OCCAM Engenharia</dt>
-  <dd>- Marketing Advisor</dd>
   <dt>UTFPR-PB</dt>
   <dd>- Computer Engineering Student</dd>
 </dl>
